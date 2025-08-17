@@ -2,40 +2,33 @@
   "news": [
     {
       "id": 1,
-      "topic": "Giant Cat Spotted in Downtown",
-      "shortDetail": "A large feline allegedly seen near the city square last night.",
-      "fullDetail": "Residents claim to have spotted a cat the size of a car walking through downtown. Several blurry images have been shared online. Experts remain skeptical, suggesting it's likely a camera trick.",
-      "reporter": "Alice Wong",
-      "reportDate": "2025-08-15T18:30:00",
-      "imageUrl": ["https://drive.google.com/file/d/1RY9nGnrDptRxqnSBmp8pcwSrD0oXYUXF/view?usp=drive_link"],
+      "topic": "Scientists Discover Life on Mars",
+      "shortDetail": "Scientist makes stunning confession as he claims life already found on Mars.",
+      "fullDetail": "Dr Gilbert Levin, who worked on the Viking Mars landers in the 1970s, claims NASA had already answered the “ultimate question”, that is, that Mars supports alien life. Writing in a blog post for American Scientific, Dr Levin said the rover he worked on found biological formations that revealed the presence of microbial organisms.",
+      "reporter": "Joel Day",
+      "reportDate": "2019-08-16T10:00:00",
+      "imageUrl": ["https://drive.google.com/file/d/12UOzFUmIkesR9MB-wFEJLJvu_5LlEZDB/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "John Doe", 
-          "vote": "Fake", 
-          "comment": "That’s obviously Photoshopped, look at the shadow!", 
-          "imageUrl": ["https://example.com/images/shadow-analysis.jpg"] 
+        {
+          "id": 1,
+          "user": "Mike Lee",
+          "vote": "Fake",
+          "comment": "This seems impossible given what we know about Mars.",
+          "imageUrl": []
         },
-        { 
-          "id": 2, 
-          "user": "Sara Kim", 
-          "vote": "Not Fake", 
-          "comment": "I live in the area and saw something similar last night.", 
-          "imageUrl": [] 
+        {
+          "id": 2,
+          "user": "Sarah Johnson",
+          "vote": "Not Fake",
+          "comment": "Mars' landscape is said to have once inhabited life and oceans.",
+          "imageUrl": []
         },
-        { 
-          "id": 3, 
-          "user": "Leo Martinez", 
-          "vote": "Fake", 
-          "comment": "Perspective trick. Look at the car behind it.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4, 
-          "user": "Emma Brown", 
-          "vote": "Fake", 
-          "comment": "News sites already debunked it.", 
-          "imageUrl": ["https://example.com/images/fact-check.jpg"] 
+        {
+          "id": 3,
+          "user": "John Doe",
+          "vote": "Fake",
+          "comment": "This is fake since there has been no sighting of life reported.",
+          "imageUrl": ["https://drive.google.com/file/d/1lTKlXB1Rnt_iw5E6qBRXUSX0kKL_xX7Q/view?usp=drive_link"]
         }
       ]
     },
@@ -43,24 +36,24 @@
       "id": 2,
       "topic": "New Tech Can Charge Phones in 10 Seconds",
       "shortDetail": "Startup claims to have invented ultra-fast phone charger.",
-      "fullDetail": "A small tech startup has announced a charger that can fully charge a smartphone in just 10 seconds. Scientists are divided, some calling it a breakthrough while others demand proof.",
+      "fullDetail": "A small tech startup has announced a charger that can fully charge a smartphone in just 10 seconds. Scientists are divided, some calling it a breakthrough while others demand proof of its safety and battery longevity.",
       "reporter": "David Chen",
-      "reportDate": "2025-08-14T09:15:00",
-      "imageUrl": ["https://example.com/images/fast-charger.jpg"],
+      "reportDate": "2025-08-17T09:15:00",
+      "imageUrl": ["https://drive.google.com/file/d/1B4ll_quN3v2_gQMJBUErzj9H-jh7n9KF/view?usp=drive_link"],
       "comments": [
         { 
           "id": 1, 
           "user": "Mike Lee", 
           "vote": "Not Fake", 
           "comment": "I've seen their demo at CES, it’s real tech!", 
-          "imageUrl": [] 
+          "imageUrl": ["https://drive.google.com/file/d/1FWzzHteJAanFPYYXdZKymns9j_lZbNwp/view?usp=drive_link"] 
         },
         { 
           "id": 2, 
           "user": "Anna Patel", 
           "vote": "Fake", 
           "comment": "Seems too good to be true. Probably a marketing stunt.", 
-          "imageUrl": ["https://example.com/images/skeptical-graph.jpg"] 
+          "imageUrl": [] 
         },
         { 
           "id": 3, 
@@ -73,373 +66,198 @@
           "id": 4, 
           "user": "Olivia Green", 
           "vote": "Not Fake",
-          "comment": "Already available for pre-order in Japan.", 
+          "comment": "I have already tried using it myself. It works perfectly.", 
+          "imageUrl": ["https://drive.google.com/file/d/1qrimDtWBEUYa3F7FECKUs1XfhZJkERuI/view?usp=drive_link"] 
+        },
+        { 
+          "id": 5, 
+          "user": "James Wong", 
+          "vote": "Fake", 
+          "comment": "I’m skeptical about battery health after multiple charges.", 
           "imageUrl": [] 
         }
       ]
-    },
+    },  
     {
       "id": 3,
-      "topic": "Bananas Now Classified as Luxury Food",
-      "shortDetail": "Due to extreme weather, banana prices have skyrocketed.",
-      "fullDetail": "The Ministry of Agriculture announced that bananas are now officially classified as a luxury food item due to global shortages and rising prices caused by severe storms.",
-      "reporter": "Emma Lopez",
-      "reportDate": "2025-08-10T14:45:00",
-      "imageUrl": ["https://example.com/images/banana-prices.jpg"],
+      "topic": "Trump to Host Putin and Zelenskyy for Trilateral Summit",
+      "shortDetail": "U.S. President Donald Trump plans a summit with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy.",
+      "fullDetail": "President Trump is reportedly organizing a trilateral summit with Presidents Putin and Zelenskyy to discuss a broader peace settlement amid ongoing tensions in Ukraine.",
+      "reporter": "David Chen",
+      "reportDate": "2025-08-14T09:15:00",
+      "imageUrl": ["https://drive.google.com/file/d/1Fg5EtGIIw-fnpJRp284AF8ztYk-u-GZw/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Chris Brown", 
-          "vote": "Not Fake", 
-          "comment": "I paid $10 for a single banana yesterday. This is real!", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 2, 
-          "user": "Sofia Lee", 
-          "vote": "Not Fake", 
-          "comment": "Prices are insane at my local market.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 3, 
-          "user": "Tom White", 
-          "vote": "Fake", 
-          "comment": "I just bought a bunch for $3. Not everywhere is expensive.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4, 
-          "user": "Rachel Adams", 
-          "vote": "Not Fake", 
-          "comment": "Government reports confirm the classification.", 
-          "imageUrl": ["https://example.com/images/government-report.jpg"] 
+        {
+          "id": 1,
+          "user": "James Gun",
+          "vote": "Not Fake",
+          "comment": "Trump did announce this. It's real.",
+          "imageUrl": []
         }
       ]
     },
+    
     {
       "id": 4,
-      "topic": "Alien Signal Detected from Nearby Star",
-      "shortDetail": "Astronomers claim to have picked up strange radio signals.",
-      "fullDetail": "A group of amateur astronomers reported detecting repeating radio signals from a star 12 light years away. Professional observatories are now attempting to verify the claims.",
-      "reporter": "Noah Smith",
-      "reportDate": "2025-08-09T21:00:00",
-      "imageUrl": ["https://example.com/images/radio-telescope.jpg"],
+      "topic": "Global Warming Reversed Overnight",
+      "shortDetail": "Environmentalists report a sudden global temperature drop.",
+      "fullDetail": "Environmental groups are celebrating an unexpected global temperature decrease, attributing it to a sudden shift in ocean currents and atmospheric conditions.",
+      "reporter": "Brian Scott",
+      "reportDate": "2025-08-15T09:30:00",
+      "imageUrl": ["https://drive.google.com/file/d/1k-_b7knKtNuLKl5A-17RU3XmQPlkXkxj/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Lily Green", 
-          "vote": "Fake", 
-          "comment": "This exact claim happened in 2016 and was debunked.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 2, 
-          "user": "Tom White", 
-          "vote": "Not Fake", 
-          "comment": "Could be true, space is full of mysteries.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 3, 
-          "user": "Alex Carter", 
-          "vote": "Fake", 
-          "comment": "Data was misinterpreted—it's a known pulsar.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4, 
-          "user": "Mia Wong", 
-          "vote": "Fake", 
-          "comment": "No official statement from major observatories.", 
-          "imageUrl": [] 
+        {
+          "id": 1,
+          "user": "Anna Patel",
+          "vote": "Fake",
+          "comment": "This is clearly made up. No scientific evidence.",
+          "imageUrl": []
         }
       ]
     },
     {
       "id": 5,
-      "topic": "City Introduces Floating Buses",
-      "shortDetail": "New public transport system will use levitating buses.",
-      "fullDetail": "The city council announced a futuristic project featuring magnetically levitated buses running on dedicated tracks to reduce congestion.",
-      "reporter": "Liam Johnson",
-      "reportDate": "2025-08-08T11:20:00",
-      "imageUrl": ["https://example.com/images/floating-bus.jpg"],
+      "topic": "China's Foreign Minister Wang Yi to Visit India for Border Talks",
+      "shortDetail": "Chinese Foreign Minister Wang Yi is scheduled to visit India for border discussions.",
+      "fullDetail": "Chinese Foreign Minister Wang Yi is scheduled to visit India on Monday for discussions regarding the ongoing boundary issue between the two countries.",
+      "reporter": "David Chen",
+      "reportDate": "2025-08-16T11:30:00",
+      "imageUrl": ["https://drive.google.com/file/d/1LHETGZ3nWWE_BR6sGsOMaCuhAFz1nuKV/view?usp=sharing"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Ella Brown", 
-          "vote": "Not Fake", 
-          "comment": "Already saw the test run last week!", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 2, 
-          "user": "Jacob Wilson", 
-          "vote": "Fake",  
-          "comment": "Sounds like sci-fi to me.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 3, 
-          "user": "Sophia Martin", 
-          "vote": "Not Fake", 
-          "comment": "Government budget documents confirm funding.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4, 
-          "user": "William Clark", 
-          "vote": "Not Fake", 
-          "comment": "Maglev tech exists—just applied to buses now.", 
-          "imageUrl": ["https://example.com/images/maglev-bus.jpg"] 
+        {
+          "id": 1,
+          "user": "Anna Patel",
+          "vote": "Not Fake",
+          "comment": "Reported by Times of India, definitely real.",
+          "imageUrl": []
         }
       ]
     },
     {
       "id": 6,
-      "topic": "Chocolate Shortage Expected This Year",
-      "shortDetail": "Climate change affecting cocoa bean harvests.",
-      "fullDetail": "Experts warn that reduced cocoa harvests could lead to a global chocolate shortage by the end of the year.",
-      "reporter": "Olivia Davis",
-      "reportDate": "2025-08-05T16:40:00",
-      "imageUrl": ["https://example.com/images/chocolate-shortage.jpg"],
+      "topic": "World Governments Agree to One-World Currency",
+      "shortDetail": "Nations announce a single global currency.",
+      "fullDetail": "Leaders from over 100 countries have agreed to adopt a single global currency, aiming to streamline international trade and reduce economic disparities.",
+      "reporter": "Diana Lopez",
+      "reportDate": "2025-08-16T11:00:00",
+      "imageUrl": ["https://drive.google.com/file/d/1AptKl_62P5Pe0EOeMXzHXkQjnwyqTLHH/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Daniel Harris", 
-          "vote": "Not Fake", 
-          "comment": "News outlets confirm it. Stock up now!", 
-          "imageUrl": [] 
-      },
-        { 
-        "id": 2, 
-        "user": "Amelia Young", 
-        "vote": "Not Fake", 
-        "comment": "Already seeing prices go up.", 
-          "imageUrl": [] 
-      },
-        { 
-          "id": 3, 
-          "user": "Ethan Hall", 
-          "vote": "Fake", 
-          "comment": "They say this every year.", 
-          "imageUrl": [] 
-      },
-        { 
-          "id": 4, 
-          "user": "Charlotte Scott", 
-          "vote": "Not Fake", 
-          "comment": "Cocoa farmers are struggling badly.", 
-          "imageUrl": ["https://example.com/images/cocoa-farm.jpg"] 
+        {
+          "id": 1,
+          "user": "Olivia Green",
+          "vote": "Fake",
+          "comment": "This is clearly fake news. No official announcements.",
+          "imageUrl": []
         }
       ]
     },
     {
       "id": 7,
-      "topic": "Robot Chef Serves Entire Restaurant",
-      "shortDetail": "AI-powered robot cooks and serves customers.",
-      "fullDetail": "A new robotic chef can prepare 50 dishes and serve customers without human assistance, reducing restaurant wait times.",
-      "reporter": "James Evans",
-      "reportDate": "2025-08-03T12:00:00",
-      "imageUrl": ["https://example.com/images/robot-chef.jpg"],
+      "topic": "Zelenskyy to Meet Trump in Washington",
+      "shortDetail": "Ukrainian President Volodymyr Zelenskyy is set to meet U.S. President Donald Trump in Washington.",
+      "fullDetail": "Following a summit in Alaska between Trump and Putin, President Zelenskyy is scheduled to meet President Trump in Washington to discuss Ukraine's security and sovereignty.",
+      "reporter": "Emily Johnson",
+      "reportDate": "2025-08-15T12:00:00",
+      "imageUrl": ["https://drive.google.com/file/d/1pH-ae_ScT5LGN4F5PL5sllYFaHbd1RYt/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Mason Wright", 
-          "vote": "Not Fake", 
-          "comment": "I ate there yesterday—it was awesome.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 2, 
-          "user": "Harper King", 
-          "vote": "Not Fake", 
-          "comment": "The robot makes perfect pasta.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 3, 
-          "user": "Benjamin Hill", 
-          "vote": "Fake", 
-          "comment": "Sounds like marketing hype.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4, 
-          "user": "Evelyn Adams", 
-          "vote": "Not Fake", 
-          "comment": "BBC covered this story.", 
-          "imageUrl": ["https://example.com/images/bbc-robot.jpg"] 
+        {
+          "id": 1,
+          "user": "Anna Patel",
+          "vote": "Not Fake",
+          "comment": "Confirmed by multiple news sources.",
+          "imageUrl": []
         }
       ]
     },
     {
       "id": 8,
-      "topic": "Shark Spotted in Local River",
-      "shortDetail": "Residents claim to see a shark in freshwater.",
-      "fullDetail": "Several locals reported seeing a shark swimming in the city river. Wildlife experts suspect it could be a bull shark, which can survive in freshwater.",
-      "reporter": "Henry Turner",
-      "reportDate": "2025-08-01T08:30:00",
-      "imageUrl": ["https://example.com/images/river-shark.jpg"],
+      "topic": "Thompson Beats Lyles in Olympic Final Rematch",
+      "shortDetail": "Jamaican sprinter Kishane Thompson defeats Noah Lyles in a 100m race.",
+      "fullDetail": "At the Silesia Diamond League meeting, Jamaican sprinter Kishane Thompson triumphed over Olympic champion Noah Lyles in a thrilling 100m rematch, clocking 9.87 seconds to Lyles' season-best 9.90.",
+      "reporter": "Jason Miller",
+      "reportDate": "2025-08-16T14:30:00",
+      "imageUrl": ["https://drive.google.com/file/d/1BJmgWAVBTgHSCmiComPtd7aloITu0noD/view?usp=drive_link"],
       "comments": [
-        { 
-          "id": 1, 
-          "user": "Victoria Collins", 
-          "vote": "Fake", 
-          "comment": "Probably just a large fish mistaken for a shark.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 2, 
-          "user": "Samuel Nelson", 
-          "vote": "Not Fake", 
-          "comment": "Bull sharks can live in freshwater—it’s possible.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 3, 
-          "user": "Isabella Baker", 
-          "vote": "Fake", 
-          "comment": "Local news debunked it with drone footage.", 
-          "imageUrl": [] 
-        },
-        { 
-          "id": 4,
-          "user": "Logan Roberts", 
-          "vote": "Fake", 
-          "comment": "No evidence in official wildlife reports.", 
-          "imageUrl": [] 
+        {
+          "id": 1,
+          "user": "Lucas Smith",
+          "vote": "Not Fake",
+          "comment": "I watched the race, Thompson really won.",
+          "imageUrl": []
         }
       ]
     },
     {
       "id": 9,
-      "topic": "Meteor Lights Up Night Sky",
-      "shortDetail": "A bright meteor was seen streaking across the sky.",
-      "fullDetail": "Residents across the city reported witnessing a bright meteor last night. Astronomers confirmed it was a small asteroid burning up in the atmosphere.",
-      "reporter": "Emily Carter",
-      "reportDate": "2025-08-05T21:15:00",
-      "imageUrl": ["https://example.com/images/meteor-sky.jpg"],
+      "topic": "Australia's PM Deflects Question About Putin's Red Carpet Welcome",
+      "shortDetail": "Australian Prime Minister Anthony Albanese addresses criticism over Putin's reception.",
+      "fullDetail": "Prime Minister Anthony Albanese reiterated Australia's stance that Russia must not be rewarded for its invasion of Ukraine, amid global controversy over Donald Trump’s red carpet meeting with Vladimir Putin.",
+      "reporter": "Olivia Green",
+      "reportDate": "2025-08-17T10:45:00",
+      "imageUrl": ["https://drive.google.com/file/d/1GzaGV4T-odSfn4bdiVwFCTtdheg8PFyI/view?usp=drive_link"],
       "comments": [
         {
           "id": 1,
-          "user": "Oliver Hughes",
+          "user": "Mike Lee",
           "vote": "Not Fake",
-          "comment": "I saw it myself—super bright!",
-          "imageUrl": []
-        },
-        {
-          "id": 2,
-          "user": "Grace Morgan",
-          "vote": "Not Fake",
-          "comment": "Local observatory confirmed it.",
-          "imageUrl": []
-        },
-        {
-          "id": 3,
-          "user": "Ethan Ross",
-          "vote": "Fake",
-          "comment": "Could just be fireworks mistaken for a meteor.",
+          "comment": "This is accurate according to The Guardian.",
           "imageUrl": []
         }
       ]
     },
     {
       "id": 10,
-      "topic": "Giant Pumpkin Grown in Backyard",
-      "shortDetail": "Man claims to have grown a 500-pound pumpkin.",
-      "fullDetail": "A gardener says he has cultivated a pumpkin weighing over 500 pounds in his backyard. Neighbors shared pictures online showing the enormous vegetable.",
-      "reporter": "Sophie Martinez",
-      "reportDate": "2025-08-10T10:45:00",
-      "imageUrl": ["https://example.com/images/giant-pumpkin.jpg"],
+      "topic": "Royal Caribbean Water Slide Incident Sparks Safety Concerns",
+      "shortDetail": "A passenger is injured on a Royal Caribbean water slide.",
+      "fullDetail": "A recent incident on Royal Caribbean's Icon of the Seas has sparked concerns over the safety of cruise-ship water slides. In early August, a passenger was injured when a piece of acrylic glass broke off from a slide, though the individual did not fall through the hole.",
+      "reporter": "Brian Scott",
+      "reportDate": "2025-08-14T15:00:00",
+      "imageUrl": ["https://drive.google.com/file/d/1ZyVRdIi8CTmeIiiWUFB8AvyW545hRBgk/view?usp=drive_link"],
       "comments": [
         {
           "id": 1,
-          "user": "Daniel Foster",
+          "user": "Lucas Smith",
           "vote": "Not Fake",
-          "comment": "The pictures look convincing.",
-          "imageUrl": []
-        },
-        {
-          "id": 2,
-          "user": "Chloe Bennett",
-          "vote": "Fake",
-          "comment": "Looks photoshopped to me.",
-          "imageUrl": []
-        },
-        {
-          "id": 3,
-          "user": "Jack Perry",
-          "vote": "Not Fake",
-          "comment": "Pumpkin competitions often have huge ones like this.",
+          "comment": "This was reported by MarketWatch, true story.",
           "imageUrl": []
         }
       ]
     },
     {
       "id": 11,
-      "topic": "Strange Lights Over the Lake",
-      "shortDetail": "Unexplained lights appeared above a local lake.",
-      "fullDetail": "Several boaters reported seeing strange glowing lights hovering over Lake Greenwood. Some believe it was drones, while others suggest UFO activity.",
-      "reporter": "Michael Lee",
-      "reportDate": "2025-08-12T22:00:00",
-      "imageUrl": ["https://example.com/images/lake-lights.jpg"],
+      "topic": "UAE Sends Firefighting Team to Aid Albania's Wildfire Battle",
+      "shortDetail": "UAE dispatches firefighting team to assist Albania.",
+      "fullDetail": "In August 2025, Albania faced some of its most severe wildfires in recent history, prompting international response and aid. To support Albania’s fight against the crisis, UAE President Sheikh Mohamed bin Zayed Al Nahyan dispatched a specialized firefighting team as part of a directive for urgent climate disaster assistance.",
+      "reporter": "Emily Johnson",
+      "reportDate": "2025-08-16T09:45:00",
+      "imageUrl": ["https://drive.google.com/file/d/1zxtSHHQfxdTMZP0naMxP0hr5eFD6TlFt/view?usp=drive_link"],
       "comments": [
         {
           "id": 1,
-          "user": "Hannah Scott",
-          "vote": "Fake",
-          "comment": "Definitely drones, nothing mysterious here.",
-          "imageUrl": []
-        },
-        {
-          "id": 2,
-          "user": "Ryan Mitchell",
+          "user": "Olivia Green",
           "vote": "Not Fake",
-          "comment": "The lights moved strangely—doesn’t look like drones.",
-          "imageUrl": []
-        },
-        {
-          "id": 3,
-          "user": "Zoe Richardson",
-          "vote": "Fake",
-          "comment": "Local police said it was part of a light show.",
+          "comment": "Confirmed by Times of India.",
           "imageUrl": []
         }
       ]
     },
     {
       "id": 12,
-      "topic": "Robot Dog Spotted Delivering Packages",
-      "shortDetail": "Residents see a four-legged robot delivering parcels.",
-      "fullDetail": "A tech company tested robotic dogs to deliver packages in a suburban neighborhood. Videos show the robots walking up driveways and leaving parcels.",
-      "reporter": "Lucas Wright",
-      "reportDate": "2025-08-15T09:20:00",
-      "imageUrl": ["https://example.com/images/robot-dog.jpg"],
+      "topic": "China and Philippines Conduct First-Ever Bilateral Naval Exercise",
+      "shortDetail": "China and Philippines hold joint naval drills.",
+      "fullDetail": "India and the Philippines conducted their first-ever bilateral naval exercise near the Scarborough Shoal, a maritime flashpoint contested by Manila and Beijing.",
+      "reporter": "Jason Miller",
+      "reportDate": "2025-08-16T14:00:00",
+      "imageUrl": ["https://drive.google.com/file/d/1Iv4OwMynvHAtwGsu7bo8sd5Y31bcZj3X/view?usp=drive_link:"],
       "comments": [
         {
           "id": 1,
-          "user": "Ava Thompson",
+          "user": "Mike Lee",
           "vote": "Not Fake",
-          "comment": "I saw it in action this morning—really cool!",
-          "imageUrl": []
-        },
-        {
-          "id": 2,
-          "user": "Benjamin Hall",
-          "vote": "Fake",
-          "comment": "Looks like a viral prank video.",
-          "imageUrl": []
-        },
-        {
-          "id": 3,
-          "user": "Sophia Adams",
-          "vote": "Not Fake",
-          "comment": "Tech companies are already doing this kind of test.",
+          "comment": "Verified by news sources.",
           "imageUrl": []
         }
-      ]   
+      ]
     }
-
   ]
 }
