@@ -28,14 +28,14 @@
           "user": "John Doe",
           "vote": "Fake",
           "comment": "This is fake since there has been no sighting of life reported.",
-          "imageUrl": ["https://drive.google.com/uc?export=view&id=1lTKlXB1Rnt_iw5E6qBRXUSX0kKL_xX7Q"]
+          "imageUrl": ["https://i.postimg.cc/rpBsHQgz/comment03.jpg"]
         },
         {
           "id": 4,
           "user": "JubJib Jubjang",
           "vote": "Fake",
           "comment": "I work with NASA there have been no sign of life on mars.",
-          "imageUrl": ["https://drive.google.com/uc?export=view&id=17Ui2-d8J_PzVFFAH-gnkEeXvQ0m65Laz"]
+          "imageUrl": ["https://i.postimg.cc/G2vtnGSK/comment04.jpg"]
         }
       ]
     },
@@ -46,14 +46,14 @@
       "fullDetail": "A small tech startup has announced a charger that can fully charge a smartphone in just 10 seconds. Scientists are divided, some calling it a breakthrough while others demand proof of its safety and battery longevity.",
       "reporter": "David Chen",
       "reportDate": "2025-08-17T09:15:00",
-      "imageUrl": ["https://drive.google.com/file/d/1B4ll_quN3v2_gQMJBUErzj9H-jh7n9KF/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/cL5rRsnR/News02-Image.webp"],
       "comments": [
         { 
           "id": 1, 
           "user": "Mike Lee", 
           "vote": "Not Fake", 
           "comment": "I've seen their demo at CES, it’s real tech!", 
-          "imageUrl": ["https://drive.google.com/file/d/1FWzzHteJAanFPYYXdZKymns9j_lZbNwp/view?usp=drive_link"] 
+          "imageUrl": ["https://i.postimg.cc/sfpQkdkz/News02-Comment01.jpg"] 
         },
         { 
           "id": 2, 
@@ -74,7 +74,7 @@
           "user": "Olivia Green", 
           "vote": "Not Fake",
           "comment": "I have already tried using it myself. It works perfectly.", 
-          "imageUrl": ["https://drive.google.com/file/d/1qrimDtWBEUYa3F7FECKUs1XfhZJkERuI/view?usp=drive_link"] 
+          "imageUrl": ["https://i.postimg.cc/4x3YHKm4/News02-Comment02.webp"] 
         },
         { 
           "id": 5, 
@@ -99,7 +99,7 @@
       "fullDetail": "President Trump is reportedly organizing a trilateral summit with Presidents Putin and Zelenskyy to discuss a broader peace settlement amid ongoing tensions in Ukraine.",
       "reporter": "David Chen",
       "reportDate": "2025-08-14T09:15:00",
-      "imageUrl": ["https://drive.google.com/file/d/1Fg5EtGIIw-fnpJRp284AF8ztYk-u-GZw/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/C5NKzY0f/News03.avif"],
       "comments": [
         {
           "id": 1,
@@ -118,7 +118,7 @@
       "fullDetail": "Environmental groups are celebrating an unexpected global temperature decrease, attributing it to a sudden shift in ocean currents and atmospheric conditions.",
       "reporter": "Brian Scott",
       "reportDate": "2025-08-15T09:30:00",
-      "imageUrl": ["https://drive.google.com/file/d/1k-_b7knKtNuLKl5A-17RU3XmQPlkXkxj/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/Kcrj97Tv/News04.jpg"],
       "comments": [
         {
           "id": 1,
@@ -136,7 +136,7 @@
       "fullDetail": "Chinese Foreign Minister Wang Yi is scheduled to visit India on Monday for discussions regarding the ongoing boundary issue between the two countries.",
       "reporter": "David Chen",
       "reportDate": "2025-08-16T11:30:00",
-      "imageUrl": ["https://drive.google.com/file/d/1LHETGZ3nWWE_BR6sGsOMaCuhAFz1nuKV/view?usp=sharing"],
+      "imageUrl": ["https://i.postimg.cc/wTqvnt55/News05.webp"],
       "comments": [
         {
           "id": 1,
@@ -154,7 +154,7 @@
       "fullDetail": "Leaders from over 100 countries have agreed to adopt a single global currency, aiming to streamline international trade and reduce economic disparities.",
       "reporter": "Diana Lopez",
       "reportDate": "2025-08-16T11:00:00",
-      "imageUrl": ["https://drive.google.com/file/d/1AptKl_62P5Pe0EOeMXzHXkQjnwyqTLHH/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/TwbL2Zhr/News06.gif"],
       "comments": [
         {
           "id": 1,
@@ -172,7 +172,7 @@
       "fullDetail": "Following a summit in Alaska between Trump and Putin, President Zelenskyy is scheduled to meet President Trump in Washington to discuss Ukraine's security and sovereignty.",
       "reporter": "Emily Johnson",
       "reportDate": "2025-08-15T12:00:00",
-      "imageUrl": ["https://drive.google.com/file/d/1pH-ae_ScT5LGN4F5PL5sllYFaHbd1RYt/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/xTnJYpQz/News07.jpg"],
       "comments": [
         {
           "id": 1,
@@ -190,7 +190,7 @@
       "fullDetail": "At the Silesia Diamond League meeting, Jamaican sprinter Kishane Thompson triumphed over Olympic champion Noah Lyles in a thrilling 100m rematch, clocking 9.87 seconds to Lyles' season-best 9.90.",
       "reporter": "Jason Miller",
       "reportDate": "2025-08-16T14:30:00",
-      "imageUrl": ["https://drive.google.com/file/d/1BJmgWAVBTgHSCmiComPtd7aloITu0noD/view?usp=drive_link"],
+      "imageUrl": ["https://i.postimg.cc/XvGXxTfT/News08.jpg"],
       "comments": [
         {
           "id": 1,
