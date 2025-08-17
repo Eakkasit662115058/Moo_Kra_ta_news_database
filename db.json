@@ -29,6 +29,13 @@
           "vote": "Fake",
           "comment": "This is fake since there has been no sighting of life reported.",
           "imageUrl": ["https://drive.google.com/file/d/1lTKlXB1Rnt_iw5E6qBRXUSX0kKL_xX7Q/view?usp=drive_link"]
+        },
+        {
+          "id": 4,
+          "user": "JubJib Jubjang",
+          "vote": "Fake",
+          "comment": "I work with NASA there have been no sign of life on mars.",
+          "imageUrl": ["https://drive.google.com/file/d/17Ui2-d8J_PzVFFAH-gnkEeXvQ0m65Laz/view?usp=drive_link"]
         }
       ]
     },
@@ -74,6 +81,13 @@
           "user": "James Wong", 
           "vote": "Fake", 
           "comment": "I’m skeptical about battery health after multiple charges.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 5, 
+          "user": "Juju Jaja", 
+          "vote": "Not Fake",
+          "comment": "I saw multiple reviews on YouTube, it seems legit.", 
           "imageUrl": [] 
         }
       ]
