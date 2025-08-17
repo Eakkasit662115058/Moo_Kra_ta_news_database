@@ -1,0 +1,445 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "topic": "Giant Cat Spotted in Downtown",
+      "shortDetail": "A large feline allegedly seen near the city square last night.",
+      "fullDetail": "Residents claim to have spotted a cat the size of a car walking through downtown. Several blurry images have been shared online. Experts remain skeptical, suggesting it's likely a camera trick.",
+      "reporter": "Alice Wong",
+      "reportDate": "2025-08-15T18:30:00",
+      "imageUrl": ["https://drive.google.com/file/d/1RY9nGnrDptRxqnSBmp8pcwSrD0oXYUXF/view?usp=drive_link"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "John Doe", 
+          "vote": "Fake", 
+          "comment": "That’s obviously Photoshopped, look at the shadow!", 
+          "imageUrl": ["https://example.com/images/shadow-analysis.jpg"] 
+        },
+        { 
+          "id": 2, 
+          "user": "Sara Kim", 
+          "vote": "Not Fake", 
+          "comment": "I live in the area and saw something similar last night.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Leo Martinez", 
+          "vote": "Fake", 
+          "comment": "Perspective trick. Look at the car behind it.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "Emma Brown", 
+          "vote": "Fake", 
+          "comment": "News sites already debunked it.", 
+          "imageUrl": ["https://example.com/images/fact-check.jpg"] 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "New Tech Can Charge Phones in 10 Seconds",
+      "shortDetail": "Startup claims to have invented ultra-fast phone charger.",
+      "fullDetail": "A small tech startup has announced a charger that can fully charge a smartphone in just 10 seconds. Scientists are divided, some calling it a breakthrough while others demand proof.",
+      "reporter": "David Chen",
+      "reportDate": "2025-08-14T09:15:00",
+      "imageUrl": ["https://example.com/images/fast-charger.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Mike Lee", 
+          "vote": "Not Fake", 
+          "comment": "I've seen their demo at CES, it’s real tech!", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Anna Patel", 
+          "vote": "Fake", 
+          "comment": "Seems too good to be true. Probably a marketing stunt.", 
+          "imageUrl": ["https://example.com/images/skeptical-graph.jpg"] 
+        },
+        { 
+          "id": 3, 
+          "user": "Lucas Smith", 
+          "vote": "Not Fake", 
+          "comment": "They explained the battery chemistry—makes sense.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "Olivia Green", 
+          "vote": "Not Fake",
+          "comment": "Already available for pre-order in Japan.", 
+          "imageUrl": [] 
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "Bananas Now Classified as Luxury Food",
+      "shortDetail": "Due to extreme weather, banana prices have skyrocketed.",
+      "fullDetail": "The Ministry of Agriculture announced that bananas are now officially classified as a luxury food item due to global shortages and rising prices caused by severe storms.",
+      "reporter": "Emma Lopez",
+      "reportDate": "2025-08-10T14:45:00",
+      "imageUrl": ["https://example.com/images/banana-prices.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Chris Brown", 
+          "vote": "Not Fake", 
+          "comment": "I paid $10 for a single banana yesterday. This is real!", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Sofia Lee", 
+          "vote": "Not Fake", 
+          "comment": "Prices are insane at my local market.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Tom White", 
+          "vote": "Fake", 
+          "comment": "I just bought a bunch for $3. Not everywhere is expensive.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "Rachel Adams", 
+          "vote": "Not Fake", 
+          "comment": "Government reports confirm the classification.", 
+          "imageUrl": ["https://example.com/images/government-report.jpg"] 
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Alien Signal Detected from Nearby Star",
+      "shortDetail": "Astronomers claim to have picked up strange radio signals.",
+      "fullDetail": "A group of amateur astronomers reported detecting repeating radio signals from a star 12 light years away. Professional observatories are now attempting to verify the claims.",
+      "reporter": "Noah Smith",
+      "reportDate": "2025-08-09T21:00:00",
+      "imageUrl": ["https://example.com/images/radio-telescope.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Lily Green", 
+          "vote": "Fake", 
+          "comment": "This exact claim happened in 2016 and was debunked.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Tom White", 
+          "vote": "Not Fake", 
+          "comment": "Could be true, space is full of mysteries.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Alex Carter", 
+          "vote": "Fake", 
+          "comment": "Data was misinterpreted—it's a known pulsar.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "Mia Wong", 
+          "vote": "Fake", 
+          "comment": "No official statement from major observatories.", 
+          "imageUrl": [] 
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "City Introduces Floating Buses",
+      "shortDetail": "New public transport system will use levitating buses.",
+      "fullDetail": "The city council announced a futuristic project featuring magnetically levitated buses running on dedicated tracks to reduce congestion.",
+      "reporter": "Liam Johnson",
+      "reportDate": "2025-08-08T11:20:00",
+      "imageUrl": ["https://example.com/images/floating-bus.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Ella Brown", 
+          "vote": "Not Fake", 
+          "comment": "Already saw the test run last week!", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Jacob Wilson", 
+          "vote": "Fake",  
+          "comment": "Sounds like sci-fi to me.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Sophia Martin", 
+          "vote": "Not Fake", 
+          "comment": "Government budget documents confirm funding.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "William Clark", 
+          "vote": "Not Fake", 
+          "comment": "Maglev tech exists—just applied to buses now.", 
+          "imageUrl": ["https://example.com/images/maglev-bus.jpg"] 
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "Chocolate Shortage Expected This Year",
+      "shortDetail": "Climate change affecting cocoa bean harvests.",
+      "fullDetail": "Experts warn that reduced cocoa harvests could lead to a global chocolate shortage by the end of the year.",
+      "reporter": "Olivia Davis",
+      "reportDate": "2025-08-05T16:40:00",
+      "imageUrl": ["https://example.com/images/chocolate-shortage.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Daniel Harris", 
+          "vote": "Not Fake", 
+          "comment": "News outlets confirm it. Stock up now!", 
+          "imageUrl": [] 
+      },
+        { 
+        "id": 2, 
+        "user": "Amelia Young", 
+        "vote": "Not Fake", 
+        "comment": "Already seeing prices go up.", 
+          "imageUrl": [] 
+      },
+        { 
+          "id": 3, 
+          "user": "Ethan Hall", 
+          "vote": "Fake", 
+          "comment": "They say this every year.", 
+          "imageUrl": [] 
+      },
+        { 
+          "id": 4, 
+          "user": "Charlotte Scott", 
+          "vote": "Not Fake", 
+          "comment": "Cocoa farmers are struggling badly.", 
+          "imageUrl": ["https://example.com/images/cocoa-farm.jpg"] 
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Robot Chef Serves Entire Restaurant",
+      "shortDetail": "AI-powered robot cooks and serves customers.",
+      "fullDetail": "A new robotic chef can prepare 50 dishes and serve customers without human assistance, reducing restaurant wait times.",
+      "reporter": "James Evans",
+      "reportDate": "2025-08-03T12:00:00",
+      "imageUrl": ["https://example.com/images/robot-chef.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Mason Wright", 
+          "vote": "Not Fake", 
+          "comment": "I ate there yesterday—it was awesome.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Harper King", 
+          "vote": "Not Fake", 
+          "comment": "The robot makes perfect pasta.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Benjamin Hill", 
+          "vote": "Fake", 
+          "comment": "Sounds like marketing hype.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4, 
+          "user": "Evelyn Adams", 
+          "vote": "Not Fake", 
+          "comment": "BBC covered this story.", 
+          "imageUrl": ["https://example.com/images/bbc-robot.jpg"] 
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Shark Spotted in Local River",
+      "shortDetail": "Residents claim to see a shark in freshwater.",
+      "fullDetail": "Several locals reported seeing a shark swimming in the city river. Wildlife experts suspect it could be a bull shark, which can survive in freshwater.",
+      "reporter": "Henry Turner",
+      "reportDate": "2025-08-01T08:30:00",
+      "imageUrl": ["https://example.com/images/river-shark.jpg"],
+      "comments": [
+        { 
+          "id": 1, 
+          "user": "Victoria Collins", 
+          "vote": "Fake", 
+          "comment": "Probably just a large fish mistaken for a shark.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 2, 
+          "user": "Samuel Nelson", 
+          "vote": "Not Fake", 
+          "comment": "Bull sharks can live in freshwater—it’s possible.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 3, 
+          "user": "Isabella Baker", 
+          "vote": "Fake", 
+          "comment": "Local news debunked it with drone footage.", 
+          "imageUrl": [] 
+        },
+        { 
+          "id": 4,
+          "user": "Logan Roberts", 
+          "vote": "Fake", 
+          "comment": "No evidence in official wildlife reports.", 
+          "imageUrl": [] 
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Meteor Lights Up Night Sky",
+      "shortDetail": "A bright meteor was seen streaking across the sky.",
+      "fullDetail": "Residents across the city reported witnessing a bright meteor last night. Astronomers confirmed it was a small asteroid burning up in the atmosphere.",
+      "reporter": "Emily Carter",
+      "reportDate": "2025-08-05T21:15:00",
+      "imageUrl": ["https://example.com/images/meteor-sky.jpg"],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Oliver Hughes",
+          "vote": "Not Fake",
+          "comment": "I saw it myself—super bright!",
+          "imageUrl": []
+        },
+        {
+          "id": 2,
+          "user": "Grace Morgan",
+          "vote": "Not Fake",
+          "comment": "Local observatory confirmed it.",
+          "imageUrl": []
+        },
+        {
+          "id": 3,
+          "user": "Ethan Ross",
+          "vote": "Fake",
+          "comment": "Could just be fireworks mistaken for a meteor.",
+          "imageUrl": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Giant Pumpkin Grown in Backyard",
+      "shortDetail": "Man claims to have grown a 500-pound pumpkin.",
+      "fullDetail": "A gardener says he has cultivated a pumpkin weighing over 500 pounds in his backyard. Neighbors shared pictures online showing the enormous vegetable.",
+      "reporter": "Sophie Martinez",
+      "reportDate": "2025-08-10T10:45:00",
+      "imageUrl": ["https://example.com/images/giant-pumpkin.jpg"],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Daniel Foster",
+          "vote": "Not Fake",
+          "comment": "The pictures look convincing.",
+          "imageUrl": []
+        },
+        {
+          "id": 2,
+          "user": "Chloe Bennett",
+          "vote": "Fake",
+          "comment": "Looks photoshopped to me.",
+          "imageUrl": []
+        },
+        {
+          "id": 3,
+          "user": "Jack Perry",
+          "vote": "Not Fake",
+          "comment": "Pumpkin competitions often have huge ones like this.",
+          "imageUrl": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "Strange Lights Over the Lake",
+      "shortDetail": "Unexplained lights appeared above a local lake.",
+      "fullDetail": "Several boaters reported seeing strange glowing lights hovering over Lake Greenwood. Some believe it was drones, while others suggest UFO activity.",
+      "reporter": "Michael Lee",
+      "reportDate": "2025-08-12T22:00:00",
+      "imageUrl": ["https://example.com/images/lake-lights.jpg"],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Hannah Scott",
+          "vote": "Fake",
+          "comment": "Definitely drones, nothing mysterious here.",
+          "imageUrl": []
+        },
+        {
+          "id": 2,
+          "user": "Ryan Mitchell",
+          "vote": "Not Fake",
+          "comment": "The lights moved strangely—doesn’t look like drones.",
+          "imageUrl": []
+        },
+        {
+          "id": 3,
+          "user": "Zoe Richardson",
+          "vote": "Fake",
+          "comment": "Local police said it was part of a light show.",
+          "imageUrl": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "topic": "Robot Dog Spotted Delivering Packages",
+      "shortDetail": "Residents see a four-legged robot delivering parcels.",
+      "fullDetail": "A tech company tested robotic dogs to deliver packages in a suburban neighborhood. Videos show the robots walking up driveways and leaving parcels.",
+      "reporter": "Lucas Wright",
+      "reportDate": "2025-08-15T09:20:00",
+      "imageUrl": ["https://example.com/images/robot-dog.jpg"],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Ava Thompson",
+          "vote": "Not Fake",
+          "comment": "I saw it in action this morning—really cool!",
+          "imageUrl": []
+        },
+        {
+          "id": 2,
+          "user": "Benjamin Hall",
+          "vote": "Fake",
+          "comment": "Looks like a viral prank video.",
+          "imageUrl": []
+        },
+        {
+          "id": 3,
+          "user": "Sophia Adams",
+          "vote": "Not Fake",
+          "comment": "Tech companies are already doing this kind of test.",
+          "imageUrl": []
+        }
+      ]   
+    }
+
+  ]
+}
