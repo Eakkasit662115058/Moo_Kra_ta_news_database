@@ -19,7 +19,7 @@
         {
           "id": 2,
           "user": "Sarah Johnson",
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "Mars' landscape is said to have once inhabited life and oceans.",
           "imageUrl": []
         },
@@ -51,7 +51,7 @@
         { 
           "id": 1, 
           "user": "Mike Lee", 
-          "vote": "Not Fake", 
+          "vote": "Real", 
           "comment": "I've seen their demo at CES, it’s real tech!", 
           "imageUrl": ["https://i.postimg.cc/sfpQkdkz/News02-Comment01.jpg"] 
         },
@@ -65,14 +65,14 @@
         { 
           "id": 3, 
           "user": "Lucas Smith", 
-          "vote": "Not Fake", 
+          "vote": "Real", 
           "comment": "They explained the battery chemistry—makes sense.", 
           "imageUrl": [] 
         },
         { 
           "id": 4, 
           "user": "Olivia Green", 
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "I have already tried using it myself. It works perfectly.", 
           "imageUrl": ["https://i.postimg.cc/4x3YHKm4/News02-Comment02.webp"] 
         },
@@ -86,7 +86,7 @@
         { 
           "id": 5, 
           "user": "Juju Jaja", 
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "I saw multiple reviews on YouTube, it seems legit.", 
           "imageUrl": [] 
         }
@@ -104,7 +104,7 @@
         {
           "id": 1,
           "user": "James Gun",
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "Trump did announce this. It's real.",
           "imageUrl": []
         }
@@ -141,7 +141,7 @@
         {
           "id": 1,
           "user": "Anna Patel",
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "Reported by Times of India, definitely real.",
           "imageUrl": []
         }
@@ -177,7 +177,7 @@
         {
           "id": 1,
           "user": "Anna Patel",
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "Confirmed by multiple news sources.",
           "imageUrl": []
         }
@@ -195,7 +195,7 @@
         {
           "id": 1,
           "user": "Lucas Smith",
-          "vote": "Not Fake",
+          "vote": "Real",
           "comment": "I watched the race, Thompson really won.",
           "imageUrl": []
         }
